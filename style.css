@@ -125,7 +125,7 @@ button:hover {
   margin-bottom: 20px;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 732px) {
   #bottom-left-section, #bottom-right-section, #card {
     width: 100%;
     height: auto;
